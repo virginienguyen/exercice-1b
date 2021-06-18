@@ -1,0 +1,35 @@
+#header {
+    text-align: center;
+}
+    table {
+        border-width:1px; 
+        border-style:solid; 
+        border-color:black;
+        border-collapse: collapse;
+        }
+       
+     td { 
+      border-width:1px; 
+        border-style:solid; 
+        border-color:black;
+        padding: 20px;
+        }
+
+thead {
+    font-weight: bold;
+    text-align: center;
+}
+tfoot {
+    text-align: center;
+}
+
+  caption {
+    text-align: center;
+  }
+  .rouge
+  {
+  color : red;
+  }
+  .vert {
+      color: green;
+  }
